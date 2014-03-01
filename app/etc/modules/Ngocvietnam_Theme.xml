@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Ngocvietnam_Theme>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Ngocvietnam_Theme>
+    </modules>
+</config>

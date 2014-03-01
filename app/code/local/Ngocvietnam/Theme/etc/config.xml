@@ -1,0 +1,18 @@
+<config>
+    <modules>
+        <Ngocvietnam_Theme>
+            <version>0.1.0</version>
+        </Ngocvietnam_Theme>
+    </modules>
+    <frontend>
+        <routers>
+            <theme>
+                <use>standard</use>
+                <args>
+                    <module>Ngocvietnam_Theme</module>
+                    <frontName>theme</frontName>
+                </args>
+            </theme>
+        </routers>
+    </frontend>
+</config>
