@@ -1,0 +1,5 @@
+.header-toplinks{position: relative; border: 1px solid #fff; height: 35px;}
+.welcome-msg{position: absolute; left: 680px;}
+.links{position: absolute; left: 900px;}
+.header-info{display: inline-block; border: 1px solid #fff;}
+.header-logo{display: inline-block; }
